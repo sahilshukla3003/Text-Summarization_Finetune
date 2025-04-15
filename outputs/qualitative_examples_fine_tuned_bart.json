@@ -1,0 +1,17 @@
+[
+  {
+    "dialogue": "Hannah: Hey, do you have Betty's number?\nAmanda: Lemme check\nHannah: <file_gif>\nAmanda: Sorry, can't find it.\nAmanda: Ask Larry\nAmanda: He called her last time we were at the park together\nHannah: I don't know him well\nHannah: <file_gif>\nAmanda: Don't be shy, he's very nice\nHannah: If you say so..\nHannah: I'd rather you texted him\nAmanda: Just text him \ud83d\ude42\nHannah: Urgh.. Alright\nHannah: Bye\nAmanda: Bye bye",
+    "reference_summary": "Hannah needs Betty's number but Amanda doesn't have it. She needs to contact Larry.",
+    "generated_summary": "Amanda can't find Betty's number. She wants to ask Larry to call Betty. Hannah doesn't know Larry well. She would rather text him. Hannah and Amanda are going to go to the park together. Hannah will text Larry and Amanda will text Betty."
+  },
+  {
+    "dialogue": "Eric: MACHINE!\r\nRob: That's so gr8!\r\nEric: I know! And shows how Americans see Russian ;)\r\nRob: And it's really funny!\r\nEric: I know! I especially like the train part!\r\nRob: Hahaha! No one talks to the machine like that!\r\nEric: Is this his only stand-up?\r\nRob: Idk. I'll check.\r\nEric: Sure.\r\nRob: Turns out no! There are some of his stand-ups on youtube.\r\nEric: Gr8! I'll watch them now!\r\nRob: Me too!\r\nEric: MACHINE!\r\nRob: MACHINE!\r\nEric: TTYL?\r\nRob: Sure :)",
+    "reference_summary": "Eric and Rob are going to watch a stand-up on youtube.",
+    "generated_summary": "Eric likes Rob's stand-up and will watch some of his stand-ups on youtube. He likes the train part of Rob's show and wants to watch more of it. Rob will check out Eric's stand up on YouTube soon."
+  },
+  {
+    "dialogue": "Lenny: Babe, can you help me with something?\r\nBob: Sure, what's up?\r\nLenny: Which one should I pick?\r\nBob: Send me photos\r\nLenny:  <file_photo>\r\nLenny:  <file_photo>\r\nLenny:  <file_photo>\r\nBob: I like the first ones best\r\nLenny: But I already have purple trousers. Does it make sense to have two pairs?\r\nBob: I have four black pairs :D :D\r\nLenny: yeah, but shouldn't I pick a different color?\r\nBob: what matters is what you'll give you the most outfit options\r\nLenny: So I guess I'll buy the first or the third pair then\r\nBob: Pick the best quality then\r\nLenny: ur right, thx\r\nBob: no prob :)",
+    "reference_summary": "Lenny can't decide which trousers to buy. Bob advised Lenny on that topic. Lenny goes with Bob's advice to pick the trousers that are of best quality.",
+    "generated_summary": "Lenny already has purple trousers. Bob has four black pairs. Lenny will buy the first or the third pair of purple pants. Bob will send Lenny photos of the quality of the pair he wants to buy. Bob likes the first pair best."
+  }
+]
