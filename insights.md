@@ -33,4 +33,15 @@
   - **Why**: Focused on evaluating BART’s out-of-the-box capabilities. Post-processing like redundancy removal or formality adjustment could be added to improve readability but wasn’t critical for this experiment.
 - **Rationale**: Preprocessing was minimal to preserve dialogue authenticity, but more aggressive cleaning (e.g., slang normalization) could help. Post-processing was avoided to isolate model errors for analysis.
 
+
+### Hyperparameter Tuning and Fine-Tuning Observations
+- **Hyperparameter Tuning**: Minor tuning (e.g., learning rate, batch size) did not yield any significant improvement in summarization accuracy. This suggests that the base model's learning dynamics were already reasonably optimized for the task.
+
+- **Fine-Tuning Results**: Fine-tuning the model for just two epochs produced notable improvements, indicating that domain adaptation was effective for the SAMSum dataset.
+
+- **Before-Fine-Tuned BART Scores**: ROUGE-1: 0.318, ROUGE-2: 0.089, ROUGE-L: 0.232
+
+- **Fine-Tuned BART Scores**: ROUGE-1: 0.390, ROUGE-2: 0.158, ROUGE-L: 0.298
+
+The significant improvement across all metrics—especially ROUGE-2—demonstrates that even light fine-tuning can help the model better understand dialogue patterns and improve abstraction quality.
 ---
