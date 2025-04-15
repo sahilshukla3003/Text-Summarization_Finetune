@@ -6,7 +6,7 @@ This project extends a modular text summarization application using the SAMSum d
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sahilshukla3003/Text-Summarization_Finetune.git
    cd text_summarization
 Create a virtual environment:
 
