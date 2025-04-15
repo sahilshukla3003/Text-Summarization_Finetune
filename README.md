@@ -10,20 +10,19 @@ This project extends a modular text summarization application using the SAMSum d
    cd text_summarization
 Create a virtual environment:
 
-bash
+```bash
 
-Copy
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install dependencies:
 
-bash
+```bash
 
 Copy
 pip install -r requirements.txt
 Run the application:
 
-bash
+```bash
 
 Copy
 python main.py
